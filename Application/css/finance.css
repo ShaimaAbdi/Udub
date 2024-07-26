@@ -1,0 +1,117 @@
+
+.container {
+    width: 75%;
+    margin-left: 260px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    position: relative;
+    left: 40%;
+    transform: translateX(-50%);
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border-radius: 7px;
+}
+th, td {
+    padding: 8px;
+    text-align: left;
+    /* border-bottom: 1px solid #ddd; */
+}
+.font {
+    color: #fff;
+}
+thead {
+    background-color: #08031E;
+}
+.action {
+    display: flex;
+    justify-content: space-between;
+}
+.action a {
+    text-decoration: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+.action a.edit {
+    background-color: #4CAF50;
+    color: white;
+}
+.action a.delete {
+    background-color: #f44336;
+    color: white;
+}
+/* Modal styling */
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0,0.4);
+}
+.modal-content {
+    background-color: #fff;
+    margin: 15% auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+    max-width: 500px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+.form-group {
+    margin-bottom: 15px;
+}
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+}
+.form-group input, .form-group select, .form-group textarea {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+}
+.form-group button {
+    padding: 10px 15px;
+    background-color: #007bff;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+.form-group button:hover {
+    background-color: #0056b3;
+}
+/* Disable body scroll when modal is open */
+body.modal-open {
+    overflow: hidden;
+}
+.alert {
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.alert-success {
+    background-color: #d4edda;
+    color: #155724;
+}
+.alert-error {
+    background-color: #f8d7da;
+    color: #721c24;
+}

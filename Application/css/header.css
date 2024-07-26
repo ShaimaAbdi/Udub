@@ -1,0 +1,29 @@
+/* header start */
+
+
+
+input[type="text"] {
+    float: right;
+   
+}
+.image {
+    width: 30px; /* Adjust the width as needed */
+    height: 30px; /* Adjust the height as needed */
+    border-radius: 60%; /* Optional: makes the image circular */
+}
+
+.navbar .nav-item .dropdown-toggle span {
+    color: white !important; /* White color for the username text */
+}
+.dropdown-menu, .user-name{
+
+    color: white;
+
+}
+/* .navbar-collapse, .navbar-nav{
+    background-color:#080F35;
+  
+} */
+
+
+/* header end */

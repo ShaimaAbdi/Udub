@@ -1,0 +1,35 @@
+
+/* dashboard start */
+
+body{
+    background-image: url('camera.jpg');
+    background-size: 100%; /* Make the background image smaller */
+    background-position: center; /* Center the background image */
+    background-repeat: no-repeat; /* Prevent the background from repeating */
+   
+}
+
+
+h3{
+    font-size: 200%;
+    color:white;
+   
+}
+.daily-sales, .Monthly-sales, .yearly-sales{
+    background:transparent;
+    border:2px solid rgb(255, 255, 255, .5);
+    backdeop-filter: blur(40px);
+    box-shadow: 0 0 10px rgb(0, 0, 0, .2);
+}
+.daily-sales, h6{
+    color:white;
+
+}
+.pcoded-inner-content{
+    align-item: center;
+    margin-top: 90px;
+}
+
+
+
+/* dashboard end */
