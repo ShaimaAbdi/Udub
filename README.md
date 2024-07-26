@@ -21,7 +21,7 @@ The UDUB Management System is a comprehensive solution aimed at automating and s
 - **Semester**: 5
 
 ## Features
-- **Film Management**: Add, edit, delete, and view film details.
+- **Project Management**: Add, edit, delete, and view film details.
 - **Employee Management**: Manage employee information, roles, and responsibilities.
 - **Client Management**: Maintain client records and track interactions.
 - **Financial Management**: Track income, expenses, and generate financial reports.
