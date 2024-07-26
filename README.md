@@ -1,7 +1,9 @@
+
+![Udub Films](Application/uplodes/udub-log.jpg)  <!-- Add your image here -->
+
 # UDUB Management System
 
 A PHP-based system developed for UDUB Films as part of my System Analysis and Design course. This system is designed to manage various aspects of the company's operations efficiently.
-
 ## Table of Contents
 - [About the Project](#about-the-project)
 - [Features](#features)
