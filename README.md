@@ -39,3 +39,5 @@ The UDUB Management System is a comprehensive solution aimed at automating and s
 1. Clone the repository:
    ```sh
    git clone https://github.com/shaimaAbdi/udub-management-system.git
+
+## Note: This project may be further developed in future versions for better functionality and features.
