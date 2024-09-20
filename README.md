@@ -66,5 +66,5 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Contact
- # E-mail: Shaima.abdisalat@gmail.com
- # linkedIn: https://www.linkedin.com/in/shaima-abdi-04234126a/
+ - **E-mail:** Shaima.abdisalat@gmail.com
+ - **linkedIn:** https://www.linkedin.com/in/shaima-abdi-04234126a/
