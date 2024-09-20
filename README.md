@@ -11,7 +11,7 @@ A PHP-based system developed for UDUB Films as part of my System Analysis and De
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Note](#Note:)
-- [License](#MIT-Licensce)
+- [License](#Licensce)
 - [Contact](#contact)
 
 ## About the Project
@@ -43,7 +43,7 @@ The UDUB Management System is a comprehensive solution aimed at automating and s
 ## Note: This project may be further developed in future versions for better functionality and features.
 
 
-## MIT License
+## License
 
 # Copyright (c) [2024] [Shaima Abdi]
 
