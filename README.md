@@ -10,7 +10,7 @@ A PHP-based system developed for UDUB Films as part of my System Analysis and De
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Note](#Note:)
+- [Note](#Note)
 - [License](#Licensce)
 - [Contact](#contact)
 
